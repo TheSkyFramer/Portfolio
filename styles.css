@@ -1,20 +1,22 @@
-        body {
+       
+       /* This is the style of the body of the website */
+       body {
             font-family: Arial, Helvetica, sans-serif;
             margin: 0;
             margin: 0;
         }
-
+/* background color of header */
         h1{
             background:rgb(0,127,255)
         }
-
+/* This is the style of the header section */
         header {
             background-color: rgb(0,127,255);
             padding: 20px 0px 20px 20px;
             font-size: 25px;
             
         }
-
+/* Comm Lab section style*/
         section {
             background-color:white;
             color: orange;
@@ -23,7 +25,7 @@
             font-size: 35px;
             text-align: center;
         }
-
+/* Photography section style */
         .photographs {
             background-color: white;
             display: inline-block;
@@ -31,7 +33,7 @@
             padding: 0px 0px 0px 50px;
             margin: auto;
         }
-
+/* Projects style */
         .individualprojects {
             background-color: white;
             display: inline-block;
@@ -40,7 +42,7 @@
             margin: auto;
             font-size: 30px;
         }
-
+/* Project pictures style */
         .individualprojectspics {
             background-color: white;
             display: inline-block;
@@ -49,16 +51,16 @@
             margin: auto;
             padding: 0px 10px 0px 50px;
         }
-
+/* About Me Section style */
         .aboutmesection {
             font-size: 20px;
             padding: 0px 150px 0px 150px;
         }
-
+/* Typography style */
         .typographypic {
             padding: 0px 80px 0px 370px;
         }
-
+/* My Brother section style */
         .tristan {
             background-color: white;
             display: inline-block;
@@ -66,19 +68,19 @@
             padding: 0px 0px 0px 50px;
             margin: auto;
         }
-
+/* Links */
         ul {
             margin: 0;
             padding:0;
             list-style-type none;
         }
-
+/* Links */
         li {
             display: inline-block;
             margin: 0 80px 0 0;
 
         }
-
+/* Link style */
         a:visited {
             color:black;
         }
@@ -95,20 +97,20 @@
         a:link, a:visited {
             text-decoration: none;
         }
-
+/* Email style */
         .email {
             color: rgb(0,127,255);
             font-size: 30px;
             text-align:center;
             padding: 0px 0px 50px 0px;
         }
-
+/* Button style */
         .button {
             border: rgb(0,127,255);
             color:rgb(0,127,255);
             padding: 0px 0px 0px 47%;
         }
-
+/* Interactive button element style */
         #myContainer {
             width: 0px;
             height: 0px;

@@ -1,4 +1,6 @@
-  var id = null;
+//  Function to move interactive element square
+ 
+ var id = null;
         function myMove() {
           var elem = document.getElementById("myAnimation");   
           var pos = 0;
