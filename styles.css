@@ -1,0 +1,125 @@
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            margin: 0;
+        }
+
+        h1{
+            background:rgb(0,127,255)
+        }
+
+        header {
+            background-color: rgb(0,127,255);
+            padding: 20px 0px 20px 20px;
+            font-size: 25px;
+            
+        }
+
+        section {
+            background-color:white;
+            color: orange;
+            padding:130px 0px 35px 0px;
+            flex-direction: row;
+            font-size: 35px;
+            text-align: center;
+        }
+
+        .photographs {
+            background-color: white;
+            display: inline-block;
+            width: 400px;
+            padding: 0px 0px 0px 50px;
+            margin: auto;
+        }
+
+        .individualprojects {
+            background-color: white;
+            display: inline-block;
+            width: 210px;
+            padding: 13px 0px 0px 130px;
+            margin: auto;
+            font-size: 30px;
+        }
+
+        .individualprojectspics {
+            background-color: white;
+            display: inline-block;
+            width: 264px;
+            padding: 0px 0px 60px 0px;
+            margin: auto;
+            padding: 0px 10px 0px 50px;
+        }
+
+        .aboutmesection {
+            font-size: 20px;
+            padding: 0px 150px 0px 150px;
+        }
+
+        .typographypic {
+            padding: 0px 80px 0px 370px;
+        }
+
+        .tristan {
+            background-color: white;
+            display: inline-block;
+            width: 600px;
+            padding: 0px 0px 0px 50px;
+            margin: auto;
+        }
+
+        ul {
+            margin: 0;
+            padding:0;
+            list-style-type none;
+        }
+
+        li {
+            display: inline-block;
+            margin: 0 80px 0 0;
+
+        }
+
+        a:visited {
+            color:black;
+        }
+
+        a:hover {
+            color:orange
+        }
+
+        a:active {
+            color: orange
+
+        }
+
+        a:link, a:visited {
+            text-decoration: none;
+        }
+
+        .email {
+            color: rgb(0,127,255);
+            font-size: 30px;
+            text-align:center;
+            padding: 0px 0px 50px 0px;
+        }
+
+        .button {
+            border: rgb(0,127,255);
+            color:rgb(0,127,255);
+            padding: 0px 0px 0px 47%;
+        }
+
+        #myContainer {
+            width: 0px;
+            height: 0px;
+            position: relative;
+            background:white;
+            padding: 0px 0px 0px 0px;
+          
+          }
+          #myAnimation {
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            background-color: orange;
+          }
